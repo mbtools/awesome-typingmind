@@ -85,4 +85,4 @@ List of cool [TypingMind plugins](https://docs.typingmind.com/plugins).
   - [WolframAlpha Query](https://cloud.typingmind.com/plugins/p-01JBZQ6VTK3XNV65DXGKYYFXJ9) - by occred
   - [Yijing Reader](https://cloud.typingmind.com/plugins/p-01JKR38SJK3JH8MPTJYJSMDXJS) - by Ben Tran
 
-- Ben Tran's Plugin server: [https://github.com/Btran1291/TypingMind-Plugin-Server](https://github.com/Btran1291/TypingMind-Plugin-Server)
+- Ben Tran's Plugin server: [https://github.com/Btran1291/TypingMind-Plugin-Server](https://github.com/Btran1291/TypingMind-Plugin-Server)- [TableJourney Food Search](https://github.com/lewismvaughan/tablejourney-mcp/tree/main/typingmind) - by lewismvaughan. Search verified restaurants, cafes and street food across 214 cities, no API key required.
